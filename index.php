@@ -1,3 +1,3 @@
 <?php
 
-echo "index23";
+echo "index";
